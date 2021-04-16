@@ -1,0 +1,1 @@
+location.replace('screen.html');
